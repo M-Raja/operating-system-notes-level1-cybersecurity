@@ -17,6 +17,14 @@
 <br>
 <br>
 
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/f7420bb0-a30b-4af8-a006-738807d0b407" alt="Banner 1" width="500" >
+</p>
+
+
+
+<br>
+
 ## 📌 Overview
 
 This repository is a **comprehensive resource** covering the foundational concepts of Operating Systems from a **cybersecurity perspective**.
@@ -50,7 +58,7 @@ This repository is a **comprehensive resource** covering the foundational concep
 <p align="center">
   <img src="https://github.com/user-attachments/assets/09a17170-ea68-4ea6-9284-c31f1ee4c240" alt="Banner 3" width="450" style="margin: 10px;">
   <img src="https://github.com/user-attachments/assets/545a3457-134c-4d58-90ba-480712d6a224" alt="Banner 2" width="400" style="margin: 10px;">
-  <img src="https://github.com/user-attachments/assets/f7420bb0-a30b-4af8-a006-738807d0b407" alt="Banner 1" width="300" style="margin: 10px;">
+ 
 
 </p>
 
